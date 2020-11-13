@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-FlutterStore/Pods-FlutterStore-frameworks.sh
+${PODS_ROOT}/../FlutterStore/flutter_store/.ios/Flutter/engine/Flutter.framework
+${PODS_ROOT}/../FlutterStore/flutter_store/.ios/Flutter/App.framework
